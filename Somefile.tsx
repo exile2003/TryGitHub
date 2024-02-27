@@ -1,10 +1,10 @@
 import React from 'react'
 
-// Some comment 
+// Some comment
 
 function Somefile() {
   return (
-    <div>Somefile in remote fix</div>
+    <div>Somefile in remote branch</div>
   )
 }
 
