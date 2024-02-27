@@ -2,7 +2,7 @@ import React from 'react'
 
 function Somefile() {
   return (
-    <div>Somefile in localy master</div>
+    <div>Somefile in remote master</div>
   )
 }
 
