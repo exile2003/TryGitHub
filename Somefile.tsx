@@ -4,7 +4,7 @@ import React from 'react'
 
 function Somefile() {
   return (
-    <div>Somefile in local branch</div>
+    <div>Somefile in local branch </div>
   )
 }
 
