@@ -1,10 +1,10 @@
 import React from 'react'
 
-// Some comment 
+// Some local comment 
 
 function Somefile() {
   return (
-    <div>Somefile in remote branch</div>
+    <div>Somefile in local branch</div>
   )
 }
 
